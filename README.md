@@ -1,19 +1,13 @@
 # Quoter
 
-**TODO: Add description**
+A tiny random quote generator. 
 
-## Installation
+- Uses [Plug](https://github.com/elixir-lang/plug) to serve. So needs [elixir](https://elixir-lang.org/) installed.
+- To serve clone, cd & run `mix run --no-halt`
+- Go to <http://localhost:8080/index.html>
+- Looks like this:
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `quoter` to your list of dependencies in `mix.exs`:
+![You were supposed to see the ui here :(](https://user-images.githubusercontent.com/5851294/27007095-f75d1112-4e46-11e7-979c-1ff4ec2a886d.png)
 
-```elixir
-def deps do
-  [{:quoter, "~> 0.1.0"}]
-end
-```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/quoter](https://hexdocs.pm/quoter).
 
