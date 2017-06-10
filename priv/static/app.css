@@ -1,0 +1,25 @@
+.outer {
+    background-color: rgb(105,105,105);
+    padding: 50px;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.quote {
+    text-align: left;
+    background-color: rgb(0,250,154);
+    padding: 30px;
+}
+
+.name {
+    background-color: rgb(128,128,128);
+}
+.author {
+    text-align: right;
+}
+
+#btn {
+    text-align: center;
+    width: 5em;
+    height: 2.8em;
+}
